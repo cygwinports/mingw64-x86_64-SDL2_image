@@ -3,7 +3,7 @@ inherit cross
 
 NAME="mingw64-x86_64-SDL2_image"
 VERSION=2.0.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="SDL2 image loading library for Win64 toolchain"
 DESCRIPTION="This is the Simple DirectMedia Layer, a general API that provides
